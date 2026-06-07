@@ -33,6 +33,11 @@ Password_Strength_Analyzer/
 ├── screenshots/
 └── README.md
 
+## Demo Video
+
+Demo Video Link:
+https://drive.google.com/file/d/1shD56ssg9ommQLqlkDVAckiD-YOts6i5/view?usp=drivesdk
+
 ## How to Run
 
 1. Open project folder in VS Code
